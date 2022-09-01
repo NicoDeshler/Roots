@@ -1,2 +1,2 @@
 # Roots
-Learning to yse open science best-practices with Roots for Resilience at UoA
+Learning to use open science best-practices with Roots for Resilience at UoA
